@@ -1,0 +1,32 @@
+### Gradle ###
+.gradle
+build/
+
+## Generated Code ##
+generated_src/
+generated_testSrc/
+
+### Intellij ###
+.idea/
+*.ipr
+*.iml
+*.iws
+out/
+/classes
+
+
+### Eclipse ###
+.metadata
+.settings/
+.loadpath
+.classpath
+.project
+
+
+### Vim ###
+*.sw[op]
+
+
+### Mac OSX + Windows ###
+Thumbs.db
+.DS_Store
